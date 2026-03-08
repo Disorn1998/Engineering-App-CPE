@@ -17,6 +17,7 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.TrendingUp
 import androidx.compose.material.icons.filled.DateRange
 import androidx.compose.material.icons.filled.Edit
 import androidx.compose.material.icons.filled.Face
@@ -136,6 +137,12 @@ fun MainMenuScreen(navController: NavController) {
                 text = "แนะนำวิชาชีพด้านวิศวกรรม",
                 icon = Icons.Filled.Star, // ใช้รูปดาว
                 onClick = { navController.navigate("career_path") }
+            )
+            // สร้างปุ่มที่ 8
+            ModernMenuButton(
+                text = "สถิติความสำเร็จ",
+                icon = Icons.AutoMirrored.Filled.TrendingUp, // เปลี่ยนเป็นรูปกราฟลูกศรพุ่งขึ้นแล้วครับ
+                onClick = { navController.navigate("stats") }
             )
         }
     }

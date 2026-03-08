@@ -46,8 +46,9 @@ fun AppNavigation() {
         composable("map") { MapScreen(navController) }
         // 8. หน้าจอ contact (ติดต่อคณะ)
         composable("contact") { ContactScreen(navController) }
-
         // 9. หน้าจอ career_path (แนะนำวิชาชีพด้านวิศวกรรม) - สำหรับส่งงาน
         composable("career_path") { CareerPathScreen(navController) }
+        // เพิ่มเข้าไปต่อท้าย composable อื่นๆ
+        composable("stats") { StatsScreen(navController) }
     }
 }

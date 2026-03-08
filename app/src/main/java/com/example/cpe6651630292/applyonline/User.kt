@@ -1,14 +1,15 @@
-package com.example.cpe6651630292.applyonline
+package com.example.cpe6651630292.applyonline // เช็ค package ให้ตรงกับของคุณนะครับ
 
 data class UserData(
-    var title: String? = null,
-    var firstname: String? = null,
-    var lastname: String? = null,
-    var dateOfBirth: String? = null,
-    var age: String? = null,
-    var sex: String? = null,
-    var email: String? = null,
-    var mobilephone: String? = null,
-    var address: String? = null,
-    var subject: String? = null
+    val title: String = "",
+    val idCard: String = "", // เพิ่มรหัสบัตรประชาชน
+    val firstname: String = "",
+    val lastname: String = "",
+    val dateOfBirth: String = "",
+    val age: String = "",
+    val sex: String = "",
+    val email: String = "",
+    val mobilephone: String = "",
+    val address: String = "",
+    val subject: String = ""
 )
