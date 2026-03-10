@@ -22,11 +22,13 @@ This application serves as a comprehensive guide for prospective students. It pr
 * **Architecture:** Single-Activity Architecture, State Management using Compose `remember` and `StateFlow`.
 
 ## 📸 Screenshots
-<img width="438" height="890" alt="Screenshot 2026-03-06 230056" src="https://github.com/user-attachments/assets/c0d32d84-7d24-4851-8ae1-86a3c56288c6" />
-<img width="422" height="892" alt="Screenshot 2026-03-06 230115" src="https://github.com/user-attachments/assets/1ffbd3f5-4ec0-456e-b20d-c9d18188aadf" />
-<img width="428" height="887" alt="Screenshot 2026-03-06 230241" src="https://github.com/user-attachments/assets/52b9665c-c9ff-4406-bd6e-1541c63ef880" />
-<img width="426" height="886" alt="Screenshot 2026-03-06 230132" src="https://github.com/user-attachments/assets/960d5890-ecd2-484e-98f5-ae56b82a24e1" />
-<img width="413" height="883" alt="Screenshot 2026-03-06 230303" src="https://github.com/user-attachments/assets/571ad95a-2e0b-479b-8435-1982d06810a6" />
+<img width="500" height="1065" alt="Screenshot 2026-03-10 180659" src="https://github.com/user-attachments/assets/a8b3a3ee-e0b5-4cdb-9383-7c1ed7725677" />
+<img width="500" height="1065" alt="Screenshot 2026-03-10 180803" src="https://github.com/user-attachments/assets/e8184cf2-f368-4716-ab16-5e01ac5e1d55" />
+<img width="500" height="1065" alt="Screenshot 2026-03-06 230115" src="https://github.com/user-attachments/assets/1ffbd3f5-4ec0-456e-b20d-c9d18188aadf" />
+<img width="500" height="1065" alt="Screenshot 2026-03-06 230241" src="https://github.com/user-attachments/assets/52b9665c-c9ff-4406-bd6e-1541c63ef880" />
+<img width="500" height="1065" alt="Screenshot 2026-03-06 230303" src="https://github.com/user-attachments/assets/571ad95a-2e0b-479b-8435-1982d06810a6" />
+<img width="500" height="1065" alt="Screenshot 2026-03-10 180732" src="https://github.com/user-attachments/assets/9e02b16a-5011-406f-a442-02e0e1b67724" />
+
 
 
 ## 💻 Getting Started
